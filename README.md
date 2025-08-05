@@ -17,6 +17,7 @@
 ### ✍️ Random Dev Quote
 
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalelMejri"/>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>

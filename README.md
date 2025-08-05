@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=100&height=100" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fatma;Bouajla;software engineering student &center=false&width=100&height=100" align="center">
   <br>
   <a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
 </div>
@@ -12,7 +12,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
 </picture>
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatmabouajla" alt="fatmabouajla" /></a> </p>

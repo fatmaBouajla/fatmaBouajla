@@ -10,7 +10,9 @@
 
 <img alt="fatma" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FatmaBouajla"/>
 
-
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/LnUt1lojccX3XZQN0T/giphy.gif" alt="Anime girl coding" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>
 

@@ -3,8 +3,9 @@
 </p>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Famta;Bouajla;Software Engineer&center=false&width=100&height=100" align="center">
- 
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=100&height=100" align="center">
+  <br>
+  <a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">

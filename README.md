@@ -12,6 +12,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
 </picture>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>

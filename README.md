@@ -10,9 +10,7 @@
 
 <img alt="fatma" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FatmaBouajla"/>
 
-<div align="center">
-  <img height="300" src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="Female developer coding" />
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>
 

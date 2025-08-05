@@ -3,12 +3,12 @@
 </p>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fatma;Bouajla;software engineering student &center=false&width=100&height=100" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=software;engineering;student &center=false&width=100&height=100" align="center">
   <br>
  
 </div>
 
-<img src="https://api.star-history.com/svg?repos=FatmaBouajla/FatmaBouajla&type=Date" >
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ### ✍️ Random Dev Quote
 

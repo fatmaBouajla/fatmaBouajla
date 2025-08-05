@@ -5,14 +5,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=software;engineering;student &center=false&width=100&height=100" align="center">
   <br>
- 
 </div>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-### ✍️ Random Dev Quote
 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
  <img alt="fatma"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FatmaBouajla"/>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -40,3 +37,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
 </picture>
+### ✍️ Random Dev Quote
+
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

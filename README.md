@@ -8,9 +8,9 @@
   <a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>

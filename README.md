@@ -2,6 +2,11 @@
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>
 

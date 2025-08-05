@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fatma Bouajla</h1>
+<h1 align="center">Hi 👋, I'm Fatma Bouajla</h1><p align="center">
+  <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
+</p>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>

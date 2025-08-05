@@ -2,6 +2,10 @@
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Famta;Bouajla;Software Engineer&center=false&width=100&height=100" align="center">
+ 
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">

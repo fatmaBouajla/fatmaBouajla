@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate fullstack developer from Tunisia</h3>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=software;engineering;student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF70A6&size=25" align="center">
   <br>

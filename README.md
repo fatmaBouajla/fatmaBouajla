@@ -2,12 +2,14 @@
 
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=software;engineering;student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF70A6&size=25" align="center">
+  <br>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabouajla&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabouajla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatmabouajla" alt="fatmabouajla" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

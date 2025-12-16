@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatma Bouajla</h1>
-<p align="center">
-  <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
-</p>
+
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=software;engineering;student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF70A6&size=25" align="center">
-  <br>
-</div>
 
 
 
@@ -36,5 +30,14 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmabouajla&show_icons=true&locale=en" alt="fatmabouajla" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmabouajla&" alt="fatmabouajla" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatmaBouajla/fatmaBouajla/output/pacman-contribution-graph.svg">
+</picture>
 
 

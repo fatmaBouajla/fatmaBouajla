@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | AI/ML & MLOps Enthusiast | Full-Stack Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=software;engineering;student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF70A6&size=25" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=software;AI;Mlops&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000&color=FF70A6&size=25" align="center">
   <br>
 </div>
 
